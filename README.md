@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Jean Vinicius Rodrigues! 👋</h1>
 
-<!--
-**Jeanvinicius-R/Jeanvinicius-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
+  💻 Desenvolvimento Web | ☕ Java | 🐍 Python | 🤖 Automação Industrial
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Sobre mim
+
+Atualmente curso **Análise e Desenvolvimento de Sistemas** na Faculdade de Tecnologia SENAI Antonio Adolpho Lobbe, em São Carlos-SP.
+
+Sou apaixonado por tecnologia e trabalho em projetos que integram **desenvolvimento de software** e **automação industrial**, com foco em soluções inovadoras.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Java, Python (Streamlit)
+- **Banco de Dados:** MySQL
+- **Automação Industrial:** Node-RED, programação de robôs Mitsubishi Electric (RT VisualBox)
+- **Outros:** Git, GitHub, Figma
+
+---
+
+## 📌 Áreas de Interesse
+
+- Desenvolvimento Web Fullstack
+- Integração de Sistemas (Software + Hardware)
+- Ciência de Dados
+- Automação de Processos Industriais
+
+---
+
+## 📫 Contato
+
+- ✉️ Email: [jeanvinicius.r@hotmail.com] [.](jeanvini.r@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/jean-vinicius-rodrigues-de-oliveira-499046177/]
+- 🌐 Portfólio (em breve)
+
+---
+
+⭐ **Obrigado por visitar meu perfil!** ⭐
