@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Estudante de Análise e Desenvolvimento de Sistemas<br>
-  💻 Desenvolvimento Web | ☕ Java | 🐍 Python | 🤖 Automação Industrial
+  💻 Desenvolvimento Web/Back | ☕ Java | 🐍 Python | 🤖 Automação Industrial | ⚛️ React | 
 </p>
 
 ---
